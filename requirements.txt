@@ -12,3 +12,4 @@ jedi==0.17.2
 Jinja2==2.11.2
 seaborn
 markupsafe==2.0.1
+gunicorn
